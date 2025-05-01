@@ -1,0 +1,405 @@
+[{
+  "_id": "ECC",
+  "ECC": [
+    {
+      "timestamp": "2025-04-13 21:50:29",
+      "run_no": 1,
+      "location": {
+        "position[x]": 67.12,
+        "position[y]": -43.45,
+        "position[name]": "ECC"
+      },
+      "download_speed": 42.44148617292551,
+      "upload_speed": 1.5414730640727277,
+      "latency_ms": 302,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-13 21:52:20",
+      "run_no": 2,
+      "location": {
+        "position[x]": 67.12,
+        "position[y]": -43.45,
+        "position[name]": "ECC"
+      },
+      "download_speed": 45.72442456936911,
+      "upload_speed": 1.6470264897344788,
+      "latency_ms": 205,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-15 17:57:36",
+      "run_no": 3,
+      "location": {
+        "position[x]": 67.12,
+        "position[y]": -43.45,
+        "position[name]": "ECC"
+      },
+      "download_speed": 161.6123699772232,
+      "upload_speed": 47.68000547695803,
+      "latency_ms": 46,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 00:34:46",
+      "run_no": 1,
+      "location": {
+        "position[x]": 67.12,
+        "position[y]": -43.45,
+        "position[name]": "ECC"
+      },
+      "download_speed": 104.00513725506497,
+      "upload_speed": 19.425183641015128,
+      "latency_ms": 27,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 01:52:43",
+      "run_no": 2,
+      "location": {
+        "position[x]": 67.12,
+        "position[y]": -43.45,
+        "position[name]": "ECC"
+      },
+      "download_speed": 139.03235542568612,
+      "upload_speed": 22.85240164090223,
+      "latency_ms": 54,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 01:59:22",
+      "run_no": 3,
+      "location": {
+        "position[x]": 67.12,
+        "position[y]": -43.45,
+        "position[name]": "ECC"
+      },
+      "download_speed": 17.283069861628874,
+      "upload_speed": 4.486260830160265,
+      "latency_ms": 202,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 19:21:42",
+      "run_no": 4,
+      "location": {
+        "position[x]": 220,
+        "position[y]": 300,
+        "position[name]": "ECC"
+      },
+      "download_speed": 32.42716449902085,
+      "upload_speed": 8.539606697123483,
+      "latency_ms": 127,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 20:42:50",
+      "run_no": 6,
+      "location": {
+        "position[x]": 220,
+        "position[y]": 300,
+        "position[name]": "ECC"
+      },
+      "download_speed": 31.01325865749249,
+      "upload_speed": 6.730274503908464,
+      "latency_ms": 68,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    }
+  ]
+},
+{
+  "_id": "GEC",
+  "GEC": [
+    {
+      "timestamp": "2025-04-13 21:51:18",
+      "run_no": 1,
+      "location": {
+        "position[x]": 70.21,
+        "position[y]": -40.31,
+        "position[name]": "GEC"
+      },
+      "download_speed": 32.01001911727416,
+      "upload_speed": 1.3060404880314846,
+      "latency_ms": 377,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-13 21:52:58",
+      "run_no": 2,
+      "location": {
+        "position[x]": 70.21,
+        "position[y]": -40.31,
+        "position[name]": "GEC"
+      },
+      "download_speed": 47.262190769905544,
+      "upload_speed": 3.1193565696186636,
+      "latency_ms": 85,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-15 17:58:24",
+      "run_no": 3,
+      "location": {
+        "position[x]": 70.21,
+        "position[y]": -40.31,
+        "position[name]": "GEC"
+      },
+      "download_speed": 191.9263863854301,
+      "upload_speed": 50.31085384771824,
+      "latency_ms": 50,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 19:21:01",
+      "run_no": 4,
+      "location": {
+        "position[x]": 300,
+        "position[y]": 120,
+        "position[name]": "GEC"
+      },
+      "download_speed": 29.298854521671874,
+      "upload_speed": 7.611503567102887,
+      "latency_ms": 110,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 20:42:08",
+      "run_no": 6,
+      "location": {
+        "position[x]": 300,
+        "position[y]": 120,
+        "position[name]": "GEC"
+      },
+      "download_speed": 35.031154216308686,
+      "upload_speed": 6.914792352213506,
+      "latency_ms": 58,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    }
+  ]
+},
+{
+  "_id": "SDB",
+  "SDB": [
+    {
+      "timestamp": "2025-04-13 21:53:43",
+      "run_no": 2,
+      "location": {
+        "position[x]": 65.78,
+        "position[y]": -42.5,
+        "position[name]": "SDB"
+      },
+      "download_speed": 46.76154507890245,
+      "upload_speed": 1.085463715705962,
+      "latency_ms": 200,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-15 17:59:11",
+      "run_no": 3,
+      "location": {
+        "position[x]": 65.78,
+        "position[y]": -42.5,
+        "position[name]": "SDB"
+      },
+      "download_speed": 199.90771570698794,
+      "upload_speed": 50.07765195242147,
+      "latency_ms": 48,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 19:20:13",
+      "run_no": 4,
+      "location": {
+        "position[x]": 100,
+        "position[y]": 150,
+        "position[name]": "SDB"
+      },
+      "download_speed": 30.49401814319748,
+      "upload_speed": 7.253437765220334,
+      "latency_ms": 92,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 20:20:53",
+      "run_no": 5,
+      "location": {
+        "position[x]": 100,
+        "position[y]": 150,
+        "position[name]": "SDB"
+      },
+      "download_speed": 46.72198423321718,
+      "upload_speed": 7.771082589489872,
+      "latency_ms": 123,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 20:41:27",
+      "run_no": 6,
+      "location": {
+        "position[x]": 100,
+        "position[y]": 150,
+        "position[name]": "SDB"
+      },
+      "download_speed": 38.858965258025265,
+      "upload_speed": 7.0654129879403165,
+      "latency_ms": 57,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    }
+  ]
+},
+{
+  "_id": "FOODCOURT",
+  "FOODCOURT": [
+    {
+      "timestamp": "2025-04-13 21:54:22",
+      "run_no": 2,
+      "location": {
+        "position[x]": 68.33,
+        "position[y]": -41.25,
+        "position[name]": "FOODCOURT"
+      },
+      "download_speed": 35.19538914194671,
+      "upload_speed": 3.1688489218742353,
+      "latency_ms": 55,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-15 17:59:58",
+      "run_no": 3,
+      "location": {
+        "position[x]": 68.33,
+        "position[y]": -41.25,
+        "position[name]": "FOODCOURT"
+      },
+      "download_speed": 157.71587315424773,
+      "upload_speed": 36.52289664702172,
+      "latency_ms": 69,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 19:23:03",
+      "run_no": 4,
+      "location": {
+        "position[x]": 400,
+        "position[y]": 250,
+        "position[name]": "FOODCOURT"
+      },
+      "download_speed": 7.220262556009847,
+      "upload_speed": 0.2717132668618166,
+      "latency_ms": 56,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 20:43:37",
+      "run_no": 6,
+      "location": {
+        "position[x]": 400,
+        "position[y]": 250,
+        "position[name]": "FOODCOURT"
+      },
+      "download_speed": 36.08682199021903,
+      "upload_speed": 7.452045420813632,
+      "latency_ms": 71,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    }
+  ]
+},
+{
+  "_id": "LIBRARY",
+  "LIBRARY": [
+    {
+      "timestamp": "2025-04-28 19:24:24",
+      "run_no": 4,
+      "location": {
+        "position[x]": 600,
+        "position[y]": 180,
+        "position[name]": "LIBRARY"
+      },
+      "download_speed": 0.040125194329018066,
+      "upload_speed": 0.0879357045299619,
+      "latency_ms": 81,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    },
+    {
+      "timestamp": "2025-04-28 20:44:25",
+      "run_no": 6,
+      "location": {
+        "position[x]": 600,
+        "position[y]": 180,
+        "position[name]": "LIBRARY"
+      },
+      "download_speed": 38.392230411525176,
+      "upload_speed": 7.450896819200461,
+      "latency_ms": 90,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 100
+    }
+  ]
+},
+{
+  "_id": "LOUNGE",
+  "LOUNGE": [
+    {
+      "timestamp": "2025-04-28 20:40:45",
+      "run_no": 6,
+      "location": {
+        "position[x]": 500,
+        "position[y]": 200,
+        "position[name]": "LOUNGE"
+      },
+      "download_speed": 29.960514087568495,
+      "upload_speed": 7.094841528092168,
+      "latency_ms": 62,
+      "jitter_ms": 0,
+      "packet_loss": 0,
+      "rssi": 99
+    }
+  ]
+}]
